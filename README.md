@@ -20,16 +20,16 @@ As the leader of the **Systems Design Team**, I:
 - [Meeting Minutes](Meeting%20Minutes.pdf)
 
 ### User Documentation
-- [Baseline Project Plan](
-- [Backup & Recovery Prodecures](
-- [Design Specifications](
-- [Information System Proposal](
-- [Request for Proposal](
-- [Support Plan](
-- [System Proposal](
-- [System Requirements](
-- [Training Plan](
-- [User Manual](
+- [Baseline Project Plan](Baseline%20Project%20Plan.pdf)
+- [Backup & Recovery Prodecures](Backup%20%26%20Recovery%20Prodecures.pdf)
+- [Design Specifications](Design%20Specifications.pdf)
+- [Information System Proposal](Information%20System%20Proposal.pdf)
+- [Request for Proposal](Request%20for%20Proposal.pdf)
+- [Support Plan](Support%20Plan.pdf)
+- [System Proposal](System%20Proposal.pdf)
+- [System Requirements](System%20Requirements.pdf)
+- [Training Plan](Training%20Plan.pdf)
+- [User Manual](User%20Manual.pdf)
 
 
 ### Final Presentation Slides
