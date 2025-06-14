@@ -15,7 +15,7 @@ As the leader of the **Systems Design Team**, I:
 
 ### System Documentation
 - [Current ERD/DFD](system_documentation/Current%20ERD_DFD.pdf)
-- [Proposed ERD/DFD](system_documentation/Proposed%20ERD_DFD.pdf)
+- [Proposed ERD/DFD](Proposed%20ERD_DFD.pdf)
 - [Data Dictionary](system_documentation/Data%20Dictionary.pdf)
 - [Meeting Minutes](system_documentation/Meeting%20Minutes.pdf)
 
