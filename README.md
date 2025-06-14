@@ -11,7 +11,7 @@ As the leader of the **Systems Design Team**, I:
 
 ## Key Deliverables
 ### Final App
-- [Final App Zip](
+- [Final App Zip](final%20app.zip)
 
 ### System Documentation
 - [Current ERD/DFD](Current%20ERD_DFD.pdf)
@@ -33,7 +33,7 @@ As the leader of the **Systems Design Team**, I:
 
 
 ### Final Presentation Slides
-- [Powerpoint](
+- [Powerpoint](Final%20Presentation%20Team1.pdf)
 
 ## Skills Applied
 - Systems Analysis & Design
