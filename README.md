@@ -1,7 +1,7 @@
 # Information Systems & Design – Mocha Point Inventory System
 
 ## Overview
-As a member of the **Systems Design Team**, I:
+As the leader of the **Systems Design Team**, I:
 - Conducted interviews to gather system requirements
 - Designed database structures and logical models
 - Created data flow and entity relationship diagrams
