@@ -21,7 +21,7 @@ As the leader of the **Systems Design Team**, I:
 
 ### User Documentation
 - [Baseline Project Plan](Baseline%20Project%20Plan.pdf)
-- [Backup & Recovery Prodecures](Backup%20%26%20Recovery%20Prodecures.pdf)
+- [Backup & Recovery Procedures](Backup%20%26%20Recovery%20Procedures.pdf)
 - [Design Specifications](Design%20Specifications.pdf)
 - [Information System Proposal](Information%20System%20Proposal.pdf)
 - [Request for Proposal](Request%20for%20Proposal.pdf)
