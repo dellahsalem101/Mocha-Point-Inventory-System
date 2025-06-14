@@ -10,10 +10,10 @@ As the leader of the **Systems Design Team**, I:
 - Served as the main communicator between the client, professor, and team members to ensure alignment, clarity, and progress
 
 ## Key Deliverables
-[Final App]
-[System Documentation]
-[User Documentation]
-[Final Presentation Slides]
+- [Final App]
+- [System Documentation]
+- [User Documentation]
+- [Final Presentation Slides]
 
 ## Skills Applied
 - Systems Analysis & Design
