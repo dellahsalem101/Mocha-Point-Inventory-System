@@ -33,7 +33,7 @@ As the leader of the **Systems Design Team**, I:
 
 
 ### Final Presentation Slides
-- [Powerpoint](Final%20Presentation%20Team1.pdf)
+- [PowerPoint](Final%20Presentation%20Team1.pdf)
 
 ## Skills Applied
 - Systems Analysis & Design
