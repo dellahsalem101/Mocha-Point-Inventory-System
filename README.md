@@ -27,7 +27,7 @@ As the **Systems Design Team Lead**, I:
 - [Design Specifications](user_documentation/Design%20Specifications.pdf)
 - [Baseline Project Plan](user_documentation/Baseline%20Project%20Plan.pdf)
 - [Installation Plan](user_documentation/Installation%20Plan.pdf)
--�[Training Plan](user_documentation/Training%20Plan.pdf)
+- [Training Plan](user_documentation/Training%20Plan.pdf)
 - [User Manual](user_documentation/User%20Manual.pdf)
 - [Support Plan](user_documentation/Support%20Plan.pdf)
 - [Backup & Recovery Procedures](user_documentation/Backup%20%26%20Recovery%20Prodecures.pdf)
