@@ -14,10 +14,10 @@ As the **Systems Design Team Lead**, I:
 - [Final App Zip](final%20app.zip)
 
 ### System Documentation
-- [Current ERD/DFD](Current%20ERD_DFD.pdf)
-- [Proposed ERD/DFD](Proposed%20ERD_DFD.pdf)
-- [Data Dictionary](Data%20Dictionary.pdf)
-- [Meeting Minutes](Meeting%20Minutes.pdf)
+- [Proposed ERD & DFD](system_documentation/Proposed%20ERD_DFD.pdf)
+- [Current ERD & DFD](system_documentation/Current%20ERD_DFD.pdf)
+- [Data Dictionary](system_documentation/Data%20Dictionary.pdf)
+- [Meeting Minutes](system_documentation/Meeting%20Minutes.pdf)
 
 ### User Documentation
 - [Baseline Project Plan](Baseline%20Project%20Plan.pdf)
