@@ -31,10 +31,6 @@ As the **Systems Design Team Lead**, I:
 - [Training Plan](Training%20Plan.pdf)
 - [User Manual](User%20Manual.pdf)
 
-
-### Final Presentation Slides
-- [PowerPoint](Final%20Presentation%20Team1.pdf)
-
 ## Skills Applied
 - Systems Analysis & Design
 - Requirements Gathering
@@ -45,6 +41,19 @@ As the **Systems Design Team Lead**, I:
 
 ## Role & Impact
 I helped drive the technical and communication side of the project — from gathering user needs to designing system models and coordinating between all key stakeholders. My efforts ensured the solution aligned with client expectations and was clearly documented for installation.
+
+## Final Presentation Slides
+![Slide 1](slides/slide1.png)  
+![Slide 2](slides/slide2.png)  
+![Slide 3](slides/slide3.png)  
+![Slide 4](slides/slide4.png)  
+![Slide 5](slides/slide5.png)  
+![Slide 6](slides/slide6.png)  
+![Slide 7](slides/slide7.png)  
+![Slide 8](slides/slide8.png)  
+![Slide 9](slides/slide9.png)  
+![Slide 10](slides/slide10.png)  
+![Slide 11](slides/slide11.png)
 
 
 
