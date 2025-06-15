@@ -30,7 +30,7 @@ As the **Systems Design Team Lead**, I:
 - [Training Plan](user_documentation/Training%20Plan.pdf)
 - [User Manual](user_documentation/User%20Manual.pdf)
 - [Support Plan](user_documentation/Support%20Plan.pdf)
-- [Backup & Recovery Procedures](user_documentation/Backup%20%26%20Recovery%20Prodecures.pdf)
+- [Backup & Recovery Procedures](user_documentation/Backup%20%26%20Recovery%20Procedures.pdf)
 
 ## Skills Applied
 - Systems Analysis & Design
