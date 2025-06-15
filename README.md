@@ -14,22 +14,23 @@ As the **Systems Design Team Lead**, I:
 - [Final App Zip](final%20app.zip)
 
 ### System Documentation
-- [Proposed ERD & DFD](system_documentation/Proposed%20ERD_DFD.pdf)
-- [Current ERD & DFD](system_documentation/Current%20ERD_DFD.pdf)
-- [Data Dictionary](system_documentation/Data%20Dictionary.pdf)
 - [Meeting Minutes](system_documentation/Meeting%20Minutes.pdf)
+- [Current ERD & DFD](system_documentation/Current%20ERD_DFD.pdf)
+- [Proposed ERD & DFD](system_documentation/Proposed%20ERD_DFD.pdf)
+- [Data Dictionary](system_documentation/Data%20Dictionary.pdf)
 
 ### User Documentation
-- [Baseline Project Plan](Baseline%20Project%20Plan.pdf)
-- [Backup & Recovery Procedures](Backup%20%26%20Recovery%20Procedures.pdf)
-- [Design Specifications](Design%20Specifications.pdf)
-- [Information System Proposal](Information%20System%20Proposal.pdf)
-- [Request for Proposal](Request%20for%20Proposal.pdf)
-- [Support Plan](Support%20Plan.pdf)
-- [System Proposal](System%20Proposal.pdf)
-- [System Requirements](System%20Requirements.pdf)
-- [Training Plan](Training%20Plan.pdf)
-- [User Manual](User%20Manual.pdf)
+- [System Requirements](user_documentation/System%20Requirements.pdf)
+- [System Proposal](user_documentation/System%20Proposal.pdf)
+- [Information System Proposal](user_documentation/Information%20System%20Proposal.pdf)
+- [Request for Proposal](user_documentation/Request%20for%20Proposal.pdf)
+- [Design Specifications](user_documentation/Design%20Specifications.pdf)
+- [Baseline Project Plan](user_documentation/Baseline%20Project%20Plan.pdf)
+- [Installation Plan](user_documentation/Installation%20Plan.pdf)
+-�[Training Plan](user_documentation/Training%20Plan.pdf)
+- [User Manual](user_documentation/User%20Manual.pdf)
+- [Support Plan](user_documentation/Support%20Plan.pdf)
+- [Backup & Recovery Procedures](user_documentation/Backup%20%26%20Recovery%20Prodecures.pdf)
 
 ## Skills Applied
 - Systems Analysis & Design
